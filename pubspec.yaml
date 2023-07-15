@@ -1,0 +1,119 @@
+name: ez_trading_v2
+description: An application to receive forex signals and read news in android and ios
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.2.2
+
+  cupertino_icons: ^1.0.2
+  firebase_database: ^10.2.3
+  json_annotation: ^4.8.0
+  firebase_auth: ^4.6.3
+  firebase_core: ^2.14.0
+  shared_preferences: ^2.0.13
+  http: ^1.1.0
+  provider: ^6.0.5
+  flutter_svg: ^2.0.7
+  flutter_background_service: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+  build_runner: ^2.3.3
+  json_serializable: ^6.6.0
+
+#flutter pub get
+#flutter pub run flutter_launcher_icons
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/logo1.png"
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/NUL.svg
+    - assets/images/AAV.svg
+    - assets/images/ADA.svg
+    - assets/images/ALG.svg
+    - assets/images/ALI.svg
+    - assets/images/ALP.svg
+    - assets/images/ANT.svg
+    - assets/images/ATO.svg
+    - assets/images/AUD.svg
+    - assets/images/AVX.svg
+    - assets/images/AXS.svg
+    - assets/images/BCH.svg
+    - assets/images/BNB.svg
+    - assets/images/BTC.svg
+    - assets/images/CAD.svg
+    - assets/images/CHF.svg
+    - assets/images/CHZ.svg
+    - assets/images/COM.svg
+    - assets/images/DAT.svg
+    - assets/images/DGB.svg
+    - assets/images/DGE.svg
+    - assets/images/DOT.svg
+    - assets/images/DSH.svg
+    - assets/images/ENJ.svg
+    - assets/images/EOS.svg
+    - assets/images/ETC.svg
+    - assets/images/ETH.svg
+    - assets/images/EUR.svg
+    - assets/images/FIL.svg
+    - assets/images/GBP.svg
+    - assets/images/GLM.svg
+    - assets/images/ICP.svg
+    - assets/images/ILV.svg
+    - assets/images/ITA.svg
+    - assets/images/JPY.svg
+    - assets/images/KAV.svg
+    - assets/images/LNK.svg
+    - assets/images/LTC.svg
+    - assets/images/MKR.svg
+    - assets/images/MNA.svg
+    - assets/images/MSK.svg
+    - assets/images/MTC.svg
+    - assets/images/NEA.svg
+    - assets/images/NEO.svg
+    - assets/images/NZD.svg
+    - assets/images/OMG.svg
+    - assets/images/QTM.svg
+    - assets/images/REF.svg
+    - assets/images/SIA.svg
+    - assets/images/SND.svg
+    - assets/images/SNT.svg
+    - assets/images/SOL.svg
+    - assets/images/STR.svg
+    - assets/images/STX.svg
+    - assets/images/SUN.svg
+    - assets/images/THT.svg
+    - assets/images/TLM.svg
+    - assets/images/TRX.svg
+    - assets/images/UKBRENT.svg
+    - assets/images/UNI.svg
+    - assets/images/USCRUDE.svg
+    - assets/images/USD.svg
+    - assets/images/VET.svg
+    - assets/images/WAV.svg
+    - assets/images/XAG.svg
+    - assets/images/XAU.svg
+    - assets/images/XLM.svg
+    - assets/images/XMR.svg
+    - assets/images/XNG.svg
+    - assets/images/XRP.svg
+    - assets/images/XTZ.svg
+    - assets/images/YFI.svg
+    - assets/images/YGG.svg
+    - assets/images/ZEC.svg
+    - assets/images/ZIL.svg

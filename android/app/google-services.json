@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "699902163185",
+    "firebase_url": "https://iztradingv1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iztradingv1",
+    "storage_bucket": "iztradingv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699902163185:android:4139977ed89164737a5150",
+        "android_client_info": {
+          "package_name": "com.bqh04.ez_trading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699902163185-42g57aur6ad7npdtipdlioetsk6dprmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvmtHz4jafQom0jR8j0DO4RgRcspKa0l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699902163185-42g57aur6ad7npdtipdlioetsk6dprmf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699902163185-3hf845hb14o3tqnk8j90roa57fgsa663.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bqh04.ezTradingV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699902163185:android:dc0b928ef420704b7a5150",
+        "android_client_info": {
+          "package_name": "com.bqh04.ez_trading_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699902163185-42g57aur6ad7npdtipdlioetsk6dprmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvmtHz4jafQom0jR8j0DO4RgRcspKa0l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699902163185-42g57aur6ad7npdtipdlioetsk6dprmf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699902163185-3hf845hb14o3tqnk8j90roa57fgsa663.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bqh04.ezTradingV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699902163185:android:e1691bb9e989c2107a5150",
+        "android_client_info": {
+          "package_name": "com.huybui.iztradingv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699902163185-66rq7ug7jchg45e52cocbvnmsv3otjck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huybui.iztradingv1",
+            "certificate_hash": "ca8c2b12e24ad35d6fc8a02dde2141a80c758708"
+          }
+        },
+        {
+          "client_id": "699902163185-42g57aur6ad7npdtipdlioetsk6dprmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvmtHz4jafQom0jR8j0DO4RgRcspKa0l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699902163185-42g57aur6ad7npdtipdlioetsk6dprmf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699902163185-3hf845hb14o3tqnk8j90roa57fgsa663.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bqh04.ezTradingV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

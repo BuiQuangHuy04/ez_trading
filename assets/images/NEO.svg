@@ -1,0 +1,11 @@
+<svg width="392" height="256" viewBox="0 0 392 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Neo" clip-path="url(#clip0)">
+<path id="Vector" d="M384.517 255H6.74623C3.57184 255 1 252.429 1 249.263V6.73714C1 3.57031 3.57184 1 6.74623 1H384.518C387.692 1 390.264 3.57031 390.264 6.73714V249.263C390.263 252.43 387.691 255 384.517 255Z" fill="#F6F5F3" stroke="#A9A9A9" stroke-width="2"/>
+<path id="Vector_2" d="M0 28.5068L50.2567 52.2623V150L0 126.244V28.5068V28.5068ZM76.0642 0L2.41272 26.1705L52.2191 50.076L125.642 23.7555L76.0642 0ZM74.7058 44.7217V104.525L127 124.887V25.9418L74.7058 44.7217Z" transform="translate(132 53)" fill="#86D216"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="391.264" height="256" fill="white"/>
+</clipPath>
+</defs>
+</svg>

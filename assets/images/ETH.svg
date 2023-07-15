@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Ethereum</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M502.830113,334.819338 L8.8220017,334.819338 C3.95031408,334.819338 0,330.873758 0,326.007909 L0,8.81142922 C0,3.94557994 3.95031408,0 8.8220017,0 L502.831113,0 C507.7028,0 511.653114,3.94557994 511.653114,8.81142922 L511.653114,326.007909 C511.652115,330.874757 507.701801,334.819338 502.830113,334.819338 Z" id="path-1"></path>
+    </defs>
+    <g id="Ethereum" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy" transform="translate(0.000000, 89.000000)" fill-rule="nonzero">
+            <g id="bitkoin">
+                <g id="234-australia">
+                    <g id="Shape">
+                        <use fill="#F6F5F3" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <path stroke="#A9A9A9" stroke-width="1.5" d="M502.830113,334.069338 C507.288031,334.069338 510.9022,330.460066 510.903114,326.007909 L510.903114,8.81142922 C510.903114,4.35999496 507.288788,0.75 502.831113,0.75 L8.8220017,0.75 C4.36432645,0.75 0.75,4.35999496 0.75,8.81142922 L0.75,326.007909 C0.75,330.459343 4.36432645,334.069338 8.8220017,334.069338 L502.830113,334.069338 Z"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="ethereum-1" transform="translate(182.482051, 48.581629)">
+                <polygon id="Shape" fill="#343434" points="72.4918549 0 70.8923077 5.41470528 70.8923077 162.536913 72.4918549 164.127127 145.723077 121.015813"></polygon>
+                <polygon id="Shape" fill="#8C8C8C" points="73.5179487 0 0 121.015393 73.5179487 164.127127 73.5179487 87.8649724"></polygon>
+                <polygon id="Shape" fill="#3C3C3B" points="71.8016112 178.729585 70.8923077 179.834063 70.8923077 236.322951 71.8016112 238.969096 145.723077 135.240752"></polygon>
+                <polygon id="Shape" fill="#8C8C8C" points="73.5179487 238.969096 73.5179487 178.729344 0 135.240752"></polygon>
+                <polygon id="Shape" fill="#141414" points="73.5179487 165.440144 147.035897 121.647235 73.5179487 87.9721399"></polygon>
+                <polygon id="Shape" fill="#393939" points="0 121.646983 73.5179487 165.440144 73.5179487 87.9721399"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
